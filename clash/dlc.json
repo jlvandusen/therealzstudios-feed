@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-10-24T17:02:37Z",
+  "studio": "The Real Z Studios",
+  "website": "https://www.therealzstudios.com",
+  "games": [
+    {
+      "id": "clash_of_crests",
+      "title": "Clash of Crests",
+      "storeUrl": "https://store.steampowered.com/app/4600990/",
+      "demoUrl": "https://store.steampowered.com/app/5212870/",
+      "review": {
+        "ribbon": "ENJOYING THE CAMPAIGN?",
+        "title": "LEAVE A REVIEW",
+        "pitch": "A few words on the store page help other commanders find the game.",
+        "button": "Review on Steam",
+        "url": "https://store.steampowered.com/recommended/recommendgame/4600990",
+        "gogButton": "Review on GOG",
+        "gogReviewUrl": "",
+        "art": "Art/about_product_base.jpg"
+      },
+      "products": [
+        {
+          "id": "base",
+          "kind": "base",
+          "title": "Clash of Crests",
+          "blurb": "Take the castle. The full game: every nation, campaigns and scenarios, 8-player LAN, and the siege train that breaks walls, with hex battles where each counter is one warrior.",
+          "status": "available",
+          "price": "",
+          "steamAppId": "4600990",
+          "storeUrl": "https://store.steampowered.com/app/4600990/Clash_of_Crests/",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/base_card.jpg",
+          "header": "https://feed.therealzstudios.com/clash/art/base_header.jpg"
+        },
+        {
+          "id": "wallace",
+          "kind": "dlc",
+          "title": "Wallace",
+          "blurb": "Scotland rises. Ride with Wallace, Robert the Bruce and the Pictish clans against Longshanks: a three-chapter campaign of ambush, open battle and siege, two new nations and 129 units.",
+          "status": "available",
+          "price": "$9.00",
+          "steamAppId": "5275110",
+          "storeUrl": "https://store.steampowered.com/app/5275110/",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/wallace_card.jpg",
+          "header": "https://feed.therealzstudios.com/clash/art/wallace_header.jpg"
+        },
+        {
+          "id": "nordic",
+          "kind": "dlc",
+          "title": "Eaters of the Dead",
+          "blurb": "The Norse come south. Follow Buliwyf's thirteen through six chapters, men by day and the wendol by night, and field a full Nordic nation of berserkers, longships and siege engines.",
+          "status": "available",
+          "price": "$9.00",
+          "steamAppId": "5292390",
+          "storeUrl": "https://store.steampowered.com/app/5292390/",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/nordic_card.jpg",
+          "header": "https://feed.therealzstudios.com/clash/art/nordic_header.jpg"
+        },
+        {
+          "id": "dangers",
+          "kind": "dlc",
+          "title": "Dangers and Wonders",
+          "blurb": "Walk the darker half of the world. Spellbooks and five schools of magic, relic wonders that turn a battle, delve maps and dungeon quests.",
+          "status": "available",
+          "price": "$9.00",
+          "steamAppId": "5304050",
+          "storeUrl": "https://store.steampowered.com/app/5304050/",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/dangers_card.jpg",
+          "header": "https://feed.therealzstudios.com/clash/art/dangers_header.jpg"
+        },
+        {
+          "id": "friars",
+          "kind": "dlc",
+          "title": "The Friar's Scepter",
+          "blurb": "Sherwood's darker tale: a three-chapter campaign, six standalone battles and the creatures of the greenwood.",
+          "status": "available",
+          "price": "$9.00",
+          "steamAppId": "5383230",
+          "storeUrl": "https://store.steampowered.com/app/5383230/",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/friars_card.jpg",
+          "header": "https://feed.therealzstudios.com/clash/art/friars_header.jpg"
+        },
+        {
+          "id": "maid",
+          "kind": "dlc",
+          "title": "Maid of Orléans",
+          "blurb": "The French rise under Joan of Arc: a fifteen-chapter campaign, the Rescue of the Maid, a new nation and its crest.",
+          "status": "available",
+          "price": "$9.00",
+          "steamAppId": "5402060",
+          "storeUrl": "https://store.steampowered.com/app/5402060/",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/maid_card.jpg",
+          "header": "https://feed.therealzstudios.com/clash/art/maid_header.jpg"
+        },
+        {
+          "id": "sable_cross",
+          "kind": "dlc",
+          "title": "The Sable Cross",
+          "blurb": "Take the black cross into the Fenmarch: four battles through bog and reed against clans never conquered, and 83 units of the Teutonic Order.",
+          "status": "soon",
+          "price": "",
+          "steamAppId": "5446140",
+          "storeUrl": "https://store.steampowered.com/app/5446140/",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/sable_cross_card.jpg",
+          "header": "https://feed.therealzstudios.com/clash/art/sable_cross_header.jpg"
+        },
+        {
+          "id": "camelot",
+          "kind": "dlc",
+          "title": "Camelot",
+          "blurb": "King Arthur and the Round Table against Morgana le Fay: a four-chapter campaign from the Forest Perilous to Camlann.",
+          "status": "soon",
+          "price": "",
+          "steamAppId": "",
+          "storeUrl": "",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/camelot_card.jpg",
+          "header": null
+        },
+        {
+          "id": "highseas",
+          "kind": "dlc",
+          "title": "The High Seas",
+          "blurb": "War takes to the water: warships with crews aboard, islands and reefs, pirate fleets and the sea-wyrm of the deep.",
+          "status": "soon",
+          "price": "",
+          "steamAppId": "",
+          "storeUrl": "",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/highseas_card.jpg",
+          "header": null
+        },
+        {
+          "id": "wildmarches",
+          "kind": "dlc",
+          "title": "The Wild Marches",
+          "blurb": "A grand adventure: three gateway camps and twelve bossed quests on maps generated fresh every run.",
+          "status": "soon",
+          "price": "",
+          "steamAppId": "",
+          "storeUrl": "",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/wildmarches_card.jpg",
+          "header": null
+        }
+      ]
+    }
+  ]
+}
