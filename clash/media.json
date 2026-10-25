@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-24T18:33:42Z",
+  "updated": "2026-10-25T20:06:43Z",
   "game": "clash",
   "title": "Clash of Crests",
   "sections": [
@@ -11,20 +11,20 @@
       "items": [
         {
           "type": "video",
-          "src": "https://feed.therealzstudios.com/clash/media/coc_trailer_v1_1920x1080.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/coc_trailer_v1_1920x1080_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_coc_trailer_v1_1920x1080.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_coc_trailer_v1_1920x1080_poster.jpg",
           "caption": "Clash of Crests - gameplay trailer"
         },
         {
           "type": "video",
-          "src": "https://feed.therealzstudios.com/clash/media/coc_store_clip_30s_30s.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/coc_store_clip_30s_30s_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_coc_store_clip_30s_30s.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_coc_store_clip_30s_30s_poster.jpg",
           "caption": "Take the castle - 30 second clip"
         },
         {
           "type": "video",
-          "src": "https://feed.therealzstudios.com/clash/media/sable_cross_trailer_30s.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/sable_cross_trailer_30s_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_sable_cross_trailer_30s.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_sable_cross_trailer_30s_poster.jpg",
           "caption": "The Sable Cross - teaser"
         }
       ]
@@ -36,20 +36,20 @@
       "items": [
         {
           "type": "loop",
-          "src": "https://feed.therealzstudios.com/clash/media/loop_01_bombardment_1280x720.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/loop_01_bombardment_1280x720_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_loop_01_bombardment_1280x720.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_loop_01_bombardment_1280x720_poster.jpg",
           "caption": "Bombardment"
         },
         {
           "type": "loop",
-          "src": "https://feed.therealzstudios.com/clash/media/loop_02_melee_fire_1280x720.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/loop_02_melee_fire_1280x720_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_loop_02_melee_fire_1280x720.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_loop_02_melee_fire_1280x720_poster.jpg",
           "caption": "Melee in the flames"
         },
         {
           "type": "loop",
-          "src": "https://feed.therealzstudios.com/clash/media/loop_03_siege_column_1280x720.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/loop_03_siege_column_1280x720_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_loop_03_siege_column_1280x720.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_loop_03_siege_column_1280x720_poster.jpg",
           "caption": "The siege column"
         }
       ]
@@ -61,128 +61,128 @@
       "items": [
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/07_castle_siege_wide.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/07_castle_siege_wide_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_07_castle_siege_wide.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_07_castle_siege_wide_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "The castle under siege"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/02_trebuchets_fire_the_tower.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/02_trebuchets_fire_the_tower_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_02_trebuchets_fire_the_tower.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_02_trebuchets_fire_the_tower_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "Trebuchets fire the tower"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/03_the_wall_breached.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/03_the_wall_breached_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_03_the_wall_breached.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_03_the_wall_breached_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "The wall is breached"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/06_storming_the_keep.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/06_storming_the_keep_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_06_storming_the_keep.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_06_storming_the_keep_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "Storming the keep"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/08_field_battle_fire.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/08_field_battle_fire_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_08_field_battle_fire.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_08_field_battle_fire_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "A field battle catches fire"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/09_army_on_the_march.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/09_army_on_the_march_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_09_army_on_the_march.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_09_army_on_the_march_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "An army on the march"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/coc_screenshot_2026_05_12_070146.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/coc_screenshot_2026_05_12_070146_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_screenshot_2026_05_12_070146.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_screenshot_2026_05_12_070146_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "Every counter is one warrior"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/coc_screenshot_2026_05_12_070259.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/coc_screenshot_2026_05_12_070259_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_screenshot_2026_05_12_070259.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_screenshot_2026_05_12_070259_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "Formations close in"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/coc_archerfight.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/coc_archerfight_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_archerfight.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_archerfight_thumb.jpg",
           "width": 1920,
           "height": 802,
           "caption": "Struck at range"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/coc_readyaim.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/coc_readyaim_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_readyaim.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_readyaim_thumb.jpg",
           "width": 1920,
           "height": 802,
           "caption": "Ready, aim, loose"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/04_the_tinker_at_the_market.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/04_the_tinker_at_the_market_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_04_the_tinker_at_the_market.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_04_the_tinker_at_the_market_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "The tinker at the market"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/05_dungeon_freeze_rune.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/05_dungeon_freeze_rune_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_05_dungeon_freeze_rune.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_05_dungeon_freeze_rune_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "A freeze rune in the dungeon"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/screenshot_lusheslandscapes.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/screenshot_lusheslandscapes_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_screenshot_lusheslandscapes.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_screenshot_lusheslandscapes_thumb.jpg",
           "width": 1907,
           "height": 989,
           "caption": "Lush landscapes"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/screenshot_meetpeoplealongtheway.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/screenshot_meetpeoplealongtheway_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_screenshot_meetpeoplealongtheway.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_screenshot_meetpeoplealongtheway_thumb.jpg",
           "width": 1905,
           "height": 1003,
           "caption": "Meet people along the way"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/coc_codex.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/coc_codex_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_codex.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_codex_thumb.jpg",
           "width": 1920,
           "height": 797,
           "caption": "The Codex"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/01_main_menu.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/01_main_menu_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_01_main_menu.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_01_main_menu_thumb.jpg",
           "width": 1920,
           "height": 1280,
           "caption": "The main menu"
@@ -196,42 +196,42 @@
       "items": [
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240_thumb.jpg",
-          "width": 1920,
-          "height": 620,
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_wallace_main_capsule_1232x706.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/dlc_wallace_main_capsule_1232x706_thumb.jpg",
+          "width": 1232,
+          "height": 706,
           "caption": "Wallace, The Lion of the North"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240_thumb.jpg",
-          "width": 1920,
-          "height": 620,
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_eaters_of_the_dead_main_capsule_1232x706.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/dlc_eaters_of_the_dead_main_capsule_1232x706_thumb.jpg",
+          "width": 1232,
+          "height": 706,
           "caption": "Eaters of the Dead"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240_thumb.jpg",
-          "width": 1920,
-          "height": 620,
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_dangers_and_wonders_main_capsule_1232x706.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/dlc_dangers_and_wonders_main_capsule_1232x706_thumb.jpg",
+          "width": 1232,
+          "height": 706,
           "caption": "Dangers and Wonders"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240_thumb.jpg",
-          "width": 1920,
-          "height": 620,
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_friars_scepter_main_capsule_1232x706.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/dlc_friars_scepter_main_capsule_1232x706_thumb.jpg",
+          "width": 1232,
+          "height": 706,
           "caption": "The Friar's Scepter"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240_thumb.jpg",
-          "width": 1920,
-          "height": 620,
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_maid_of_orleans_main_capsule_1232x706.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/dlc_maid_of_orleans_main_capsule_1232x706_thumb.jpg",
+          "width": 1232,
+          "height": 706,
           "caption": "The Maid of Orleans"
         }
       ]
@@ -243,28 +243,28 @@
       "items": [
         {
           "type": "video",
-          "src": "https://feed.therealzstudios.com/clash/media/sable_cross_trailer_30s.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/sable_cross_trailer_30s_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_sable_cross_trailer_30s.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_sable_cross_trailer_30s_poster.jpg",
           "caption": "The Sable Cross - teaser"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240_thumb.jpg",
-          "width": 1920,
-          "height": 620,
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_main_capsule_1232x706.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_main_capsule_1232x706_thumb.jpg",
+          "width": 1232,
+          "height": 706,
           "caption": "The Sable Cross"
         },
         {
           "type": "video",
-          "src": "https://feed.therealzstudios.com/clash/media/sable_clip_03_night_hall_melee.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/sable_clip_03_night_hall_melee_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_sable_clip_03_night_hall_melee.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_sable_clip_03_night_hall_melee_poster.jpg",
           "caption": "Night in the hall"
         },
         {
           "type": "video",
-          "src": "https://feed.therealzstudios.com/clash/media/sable_clip_04_reed_road_clash.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/sable_clip_04_reed_road_clash_poster.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_sable_clip_04_reed_road_clash.mp4",
+          "poster": "https://feed.therealzstudios.com/clash/media/dlc_sable_cross_sable_clip_04_reed_road_clash_poster.jpg",
           "caption": "Clash on the reed road"
         }
       ]
@@ -276,16 +276,8 @@
       "items": [
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/library_hero_3840x1240_thumb.jpg",
-          "width": 1920,
-          "height": 620,
-          "caption": "Camelot"
-        },
-        {
-          "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/main_capsule_1232x706.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/main_capsule_1232x706_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_camelot_main_capsule_1232x706.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_camelot_main_capsule_1232x706_thumb.jpg",
           "width": 1232,
           "height": 706,
           "caption": "Camelot and Morgana's Host"
@@ -299,24 +291,24 @@
       "items": [
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/ths_landfall_england.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/ths_landfall_england_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_high_seas_ths_landfall_england.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_high_seas_ths_landfall_england_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "Landfall in England"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/ths_crossing_s.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/ths_crossing_s_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_high_seas_ths_crossing_s.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_high_seas_ths_crossing_s_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "The crossing"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/ths_gatefell_harbour.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/ths_gatefell_harbour_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_high_seas_ths_gatefell_harbour.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_high_seas_ths_gatefell_harbour_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "Gatefell harbour"
@@ -330,64 +322,64 @@
       "items": [
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/wm_downs_gate.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/wm_downs_gate_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_downs_gate.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_downs_gate_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "The downs gate"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/wm_q_barrowking_s.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/wm_q_barrowking_s_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_barrowking_s.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_barrowking_s_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "The barrow king"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/wm_q_emberdeep_s.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/wm_q_emberdeep_s_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_emberdeep_s.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_emberdeep_s_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "Emberdeep"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/wm_q_skyfall_s.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/wm_q_skyfall_s_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_skyfall_s.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_skyfall_s_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "Skyfall"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/wm_q_droves_s.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/wm_q_droves_s_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_droves_s.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_droves_s_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "The droves"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/wm_q_heartwood_s.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/wm_q_heartwood_s_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_heartwood_s.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_heartwood_s_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "The heartwood"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/wm_q_signalridge_s.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/wm_q_signalridge_s_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_signalridge_s.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_signalridge_s_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "Signal ridge"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/wm_q_chapel_s.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/wm_q_chapel_s_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_chapel_s.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/coming_soon_wild_marches_wm_q_chapel_s_thumb.jpg",
           "width": 1536,
           "height": 1024,
           "caption": "The chapel"
