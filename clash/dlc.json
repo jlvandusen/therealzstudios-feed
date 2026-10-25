@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-24T17:02:37Z",
+  "updated": "2026-10-25T17:01:51Z",
   "studio": "The Real Z Studios",
   "website": "https://www.therealzstudios.com",
   "games": [
@@ -103,7 +103,7 @@
           "kind": "dlc",
           "title": "The Sable Cross",
           "blurb": "Take the black cross into the Fenmarch: four battles through bog and reed against clans never conquered, and 83 units of the Teutonic Order.",
-          "status": "soon",
+          "status": "available",
           "price": "",
           "steamAppId": "5446140",
           "storeUrl": "https://store.steampowered.com/app/5446140/",
