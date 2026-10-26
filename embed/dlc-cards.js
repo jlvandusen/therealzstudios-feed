@@ -4,7 +4,8 @@
      <script src="https://feed.therealzstudios.com/embed/dlc-cards.js" defer></script>
    data-game = the feed folder: "clash" (Clash of Crests) or "defy" (DEFY).
    Optional: data-show="dlc" (only expansions) | "all" (default: base game + expansions);
-             data-status="available" | "soon" (only that status).
+             data-status="available" | "soon" (only that status);
+             data-theme="defy" (sci-fi cards: steel, cyan and amber). Default is the parchment-and-gold Clash look.
    Reads https://feed.therealzstudios.com/<game>/dlc.json - the same list the games read - so the website updates
    itself whenever a build refreshes the feed. Public data only; nothing is sent about the visitor. */
 (function () {
@@ -27,7 +28,21 @@
     "font:700 13px Arial,sans-serif;text-decoration:none;letter-spacing:.03em}" +
     ".trzs-btn:hover{background:#f4d98d}" +
     ".trzs-btn.off{background:transparent;color:#b8913f;border-color:#6d5a33;cursor:default}" +
-    ".trzs-msg{color:#b8913f;font-family:Georgia,serif}";
+    ".trzs-msg{color:#b8913f;font-family:Georgia,serif}" +
+    /* data-theme="defy": scoped overrides, so the default look is unchanged for every existing embed */
+    ".trzs-t-defy .trzs-card{background:#0b1219;border-color:#1e6f86;border-radius:4px;font-family:Inter,'Segoe UI',Arial,sans-serif;color:#dbe7ef;" +
+    "box-shadow:0 0 0 1px rgba(56,225,255,.06),0 6px 22px rgba(0,0,0,.5)}" +
+    ".trzs-t-defy .trzs-art{background:#060b11}" +
+    ".trzs-t-defy .trzs-title{font-family:'Orbitron','Segoe UI',Arial,sans-serif;font-size:15px;color:#7fe7ff;text-transform:uppercase;letter-spacing:.05em}" +
+    ".trzs-t-defy .trzs-blurb{color:#a9bccb}" +
+    ".trzs-t-defy .trzs-price{color:#ffb347}" +
+    ".trzs-t-defy .trzs-badge.av{background:#12805c}.trzs-t-defy .trzs-badge.soon{background:#ffb347;color:#0b1219}" +
+    ".trzs-t-defy .trzs-btn{background:#38e1ff;border-color:#38e1ff;color:#061018;font-family:Inter,Arial,sans-serif}" +
+    ".trzs-t-defy .trzs-btn:hover{background:#8af0ff}" +
+    ".trzs-t-defy .trzs-btn.off{background:transparent;color:#5aa9bd;border-color:#1e4a57}" +
+    ".trzs-t-defy .trzs-msg{color:#5aa9bd;font-family:Inter,Arial,sans-serif}";
+
+  var THEMES = { defy: "trzs-t-defy" };   // allowlist: unknown values fall back to the default look
 
   function el(tag, cls, text) {
     var e = document.createElement(tag);
@@ -71,6 +86,9 @@
     var game = (host.getAttribute("data-game") || "clash").replace(/[^a-z0-9_-]/gi, "");
     var show = (host.getAttribute("data-show") || "all").toLowerCase();
     var only = (host.getAttribute("data-status") || "").toLowerCase();
+    var theme = THEMES[(host.getAttribute("data-theme") || "").toLowerCase()];
+    for (var k in THEMES) host.classList.remove(THEMES[k]);
+    if (theme) host.classList.add(theme);
     host.textContent = "";
     var msg = el("p", "trzs-msg", "Loading expansions...");
     host.appendChild(msg);
