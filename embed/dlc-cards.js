@@ -5,7 +5,7 @@
    data-game = the feed folder: "clash" (Clash of Crests) or "defy" (DEFY).
    Optional: data-show="dlc" (only expansions) | "all" (default: base game + expansions);
              data-status="available" | "soon" (only that status);
-             data-theme="defy" (sci-fi cards: steel, cyan and amber). Default is the parchment-and-gold Clash look.
+             data-theme="clash" (parchment and gold, the default) | "defy" (sci-fi cards: steel, cyan and amber).
    Reads https://feed.therealzstudios.com/<game>/dlc.json - the same list the games read - so the website updates
    itself whenever a build refreshes the feed. Public data only; nothing is sent about the visitor. */
 (function () {
@@ -42,7 +42,8 @@
     ".trzs-t-defy .trzs-btn.off{background:transparent;color:#5aa9bd;border-color:#1e4a57}" +
     ".trzs-t-defy .trzs-msg{color:#5aa9bd;font-family:Inter,Arial,sans-serif}";
 
-  var THEMES = { defy: "trzs-t-defy" };   // allowlist: unknown values fall back to the default look
+  // allowlist: "clash" (or no attribute, or any unknown value) is the default parchment look
+  var THEMES = { clash: "", defy: "trzs-t-defy" };
 
   function el(tag, cls, text) {
     var e = document.createElement(tag);
@@ -87,7 +88,7 @@
     var show = (host.getAttribute("data-show") || "all").toLowerCase();
     var only = (host.getAttribute("data-status") || "").toLowerCase();
     var theme = THEMES[(host.getAttribute("data-theme") || "").toLowerCase()];
-    for (var k in THEMES) host.classList.remove(THEMES[k]);
+    for (var k in THEMES) if (THEMES[k]) host.classList.remove(THEMES[k]);
     if (theme) host.classList.add(theme);
     host.textContent = "";
     var msg = el("p", "trzs-msg", "Loading expansions...");
