@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-25T17:01:51Z",
+  "updated": "2026-10-31T14:05:37Z",
   "studio": "The Real Z Studios",
   "website": "https://www.therealzstudios.com",
   "games": [
@@ -131,7 +131,7 @@
           "blurb": "War takes to the water: warships with crews aboard, islands and reefs, pirate fleets and the sea-wyrm of the deep.",
           "status": "soon",
           "price": "",
-          "steamAppId": "",
+          "steamAppId": "5539810",
           "storeUrl": "",
           "gogUrl": "",
           "card": "https://feed.therealzstudios.com/clash/art/highseas_card.jpg",
@@ -144,10 +144,23 @@
           "blurb": "A grand adventure: three gateway camps and twelve bossed quests on maps generated fresh every run.",
           "status": "soon",
           "price": "",
-          "steamAppId": "",
+          "steamAppId": "5539820",
           "storeUrl": "",
           "gogUrl": "",
           "card": "https://feed.therealzstudios.com/clash/art/wildmarches_card.jpg",
+          "header": null
+        },
+        {
+          "id": "purple_fire",
+          "kind": "dlc",
+          "title": "The Purple and the Fire",
+          "blurb": "The Eastern Roman Empire: Harald Sigurdsson takes the Varangian oath, and Leo III holds Constantinople with Greek fire. Two campaigns and a new Byzantine nation.",
+          "status": "soon",
+          "price": "",
+          "steamAppId": "5539830",
+          "storeUrl": "",
+          "gogUrl": "",
+          "card": "https://feed.therealzstudios.com/clash/art/purple_fire_card.jpg",
           "header": null
         }
       ]
