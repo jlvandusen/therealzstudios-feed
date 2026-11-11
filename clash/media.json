@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-25T20:06:43Z",
+  "updated": "2026-11-11T07:22:37Z",
   "game": "clash",
   "title": "Clash of Crests",
   "sections": [
@@ -14,12 +14,6 @@
           "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_coc_trailer_v1_1920x1080.mp4",
           "poster": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_coc_trailer_v1_1920x1080_poster.jpg",
           "caption": "Clash of Crests - gameplay trailer"
-        },
-        {
-          "type": "video",
-          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_coc_store_clip_30s_30s.mp4",
-          "poster": "https://feed.therealzstudios.com/clash/media/clash_of_crests_videos_coc_store_clip_30s_30s_poster.jpg",
-          "caption": "Take the castle - 30 second clip"
         },
         {
           "type": "video",
@@ -61,35 +55,35 @@
       "items": [
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_07_castle_siege_wide.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_07_castle_siege_wide_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_11_f0369cde.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_11_f0369cde_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "The castle under siege"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_02_trebuchets_fire_the_tower.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_02_trebuchets_fire_the_tower_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_12_7627c25c.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_12_7627c25c_thumb.jpg",
           "width": 1920,
           "height": 1080,
-          "caption": "Trebuchets fire the tower"
+          "caption": "Siege engines rain on the gate"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_03_the_wall_breached.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_03_the_wall_breached_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_15_2ab65f6c.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_15_2ab65f6c_thumb.jpg",
           "width": 1920,
           "height": 1080,
-          "caption": "The wall is breached"
+          "caption": "Breaching the gate"
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_06_storming_the_keep.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_06_storming_the_keep_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_18_2a498299.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_18_2a498299_thumb.jpg",
           "width": 1920,
           "height": 1080,
-          "caption": "Storming the keep"
+          "caption": "The drawbridge goes up"
         },
         {
           "type": "image",
@@ -117,8 +111,8 @@
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_screenshot_2026_05_12_070259.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_screenshot_2026_05_12_070259_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_13_38792dea.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_13_38792dea_thumb.jpg",
           "width": 1920,
           "height": 1080,
           "caption": "Formations close in"
@@ -173,10 +167,10 @@
         },
         {
           "type": "image",
-          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_codex.jpg",
-          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_coc_codex_thumb.jpg",
+          "src": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_37_54a7d240.jpg",
+          "thumb": "https://feed.therealzstudios.com/clash/media/clash_of_crests_screenshots_store_37_54a7d240_thumb.jpg",
           "width": 1920,
-          "height": 797,
+          "height": 1080,
           "caption": "The Codex"
         },
         {
@@ -239,7 +233,7 @@
     {
       "id": "sable_cross",
       "title": "The Sable Cross",
-      "status": "soon",
+      "status": "available",
       "items": [
         {
           "type": "video",
@@ -287,7 +281,7 @@
     {
       "id": "highseas",
       "title": "The High Seas",
-      "status": "soon",
+      "status": "available",
       "items": [
         {
           "type": "image",
@@ -318,7 +312,7 @@
     {
       "id": "wildmarches",
       "title": "The Wild Marches",
-      "status": "soon",
+      "status": "available",
       "items": [
         {
           "type": "image",
